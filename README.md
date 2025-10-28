@@ -38,10 +38,10 @@ I’m continuously improving my skills in:
 
 💼 Skills
 
-Languages: JavaScript
-Tools: Cypress, Postman, Jira, Jmeter, n8n & GitHub Actions 
-Testing Types: Regression, UAT, Sanity, API, Performance
-Methodologies: Agile, Scrum, Shift-Left Testing
+**Languages**: JavaScript  
+**Tools:** Cypress, Postman, Jira, Jmeter, n8n & GitHub Actions  
+**Testing Types**: Regression, UAT, Sanity, API, Performance  
+**Methodologies:** Agile, Scrum, Shift-Left Testing
 
 ---------------------------------------------------------------------------------------------------------------------
 
