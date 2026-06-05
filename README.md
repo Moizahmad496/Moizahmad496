@@ -1,8 +1,8 @@
 👋 Hi, I'm Moiz!
 
-**QA Engineer | Software Tester | AI Automation Engineer**
+**QA Engineer | Software Tester**
 
-I am a results-oriented Quality Assurance Engineer with proven experience of working with QA teams, designing comprehensive test strategies, and building robust automated testing frameworks using tools like Cypress and Postman.
+I am a results oriented Quality Assurance Engineer with proven experience of working with QA teams, designing comprehensive test strategies, and building robust automated testing frameworks using tools like Cypress and Postman.
 
 My background spans Software IT industry, where I’ve successfully applied manual and automated testing, API validation, bug lifecycle management, and CI/CD pipeline integration to ensure high-quality product delivery. I specialize in driving process improvements and working closely with cross-functional teams in fast-paced Agile environments.
 
@@ -12,11 +12,9 @@ I’m passionate about delivering clean, reliable software and thrive in dynamic
 
 🔑 Projects & Work Experience
 
-- **Fidsor- QA Engineer (Current)** At Fidsor, I test and validate **Web** and** Mobile app applications** I perform User Acceptance Testing (UAT), use Microsoft planner , Google sheets and Jira for test management, and implement Postman and Cypress for API and automation testing. My work ensures product stability and a smooth user experience for customers.
- Saving testing time by **40%** by performing regression through Automation. Also building automation workflows using **n8n + AI** to overcome the daily basis repititive tasks.
+- **SOCO Engineers- QA Engineer (Current)** At my current role, I ensure the quality and reliability of an **Enterprise** Simulation Platform used by **BMW** and global **CAE** engineering teams. I perform functional, integration, regression, and release testing while investigating complex issues across UI, APIs, workflow engines, and backend services. Beyond UI testing, I conduct root-cause analysis using SSH, Linux CLI, runtime logs, and workflow outputs to identify and verify defects. I collaborate closely with frontend and backend engineers to troubleshoot issues and validate fixes. My work includes release validation across QA and Integration environments, helping ensure production readiness and platform stability. I also leverage Postman for API testing and continuously expand my automation expertise with Cypress and workflow automation tools.
   
-- **Octaloop Technologies** - As a **Junior QA  Engineer**, I worked on the Test planning stratigies along collabrorating with the QA teams to ensure smooth dilivery of software applications. I  also work on n8n automation to overcome the daily basis manual workflows and transformed it into automated workflows that saved organization's time.
-  Performed API and Performance tetsing using tools like Jmeter & Postman.
+- **Octaloop Technologies** - As a **SQA Intern**, I worked on the Test planning stratigies along collabrorating with the QA teams to ensure smooth dilivery of software applications. I  also work on n8n automation to overcome the daily basis manual workflows and transformed it into automated workflows that saved organization's time. Performed API and Performance tetsing using tools like Jmeter & Postman.
 
 - **FlavorNow**- **Canadian Resturants and CMS Management Project** - As a QA Engineer, I collaborated closely with the team from the very beginning of the project, following a shift-left approach. From reviewing designs and requirements to validating each API, UI component, and overall application performance, I played an active role in ensuring quality at every stage — contributing to the successful delivery of the project.
 
